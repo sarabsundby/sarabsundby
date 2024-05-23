@@ -1,16 +1,20 @@
-## Hi there 👋
+# Sara Bakken Sundby
 
-<!--
-**sarabsundby/sarabsundby** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Currently studying Information Technology at Høyskolen Kristiania in Oslo.
 
-Here are some ideas to get you started:
+[<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badgelogo=linkedinlogoColor=white" />](https://www.linkedin.com/in/sarabsundby/)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+---
+### Frontend and mobile development, subjects:
+##### First semester:
+- PGR103 - Kreativt Webprosjekt
+- PGR102 - Intro til Programmering
+- TK1104 - Digital Teknologi
+- DB1102 - Databaser
+
+##### Second semester:
+- PGR110 - Visual Analytics
+- TK2100 - Informasjonssikkerhet
+- PGR112 - Objektorientert Programmering
+---
