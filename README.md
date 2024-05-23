@@ -6,7 +6,7 @@
 
 
 ---
-### Frontend and mobile development, subjects:
+### Subjects in Frontend and mobile development:
 ##### First semester:
 - PGR103 - Kreativt Webprosjekt
 - PGR102 - Intro til Programmering
