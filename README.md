@@ -27,7 +27,7 @@
 </div>
 <br>
 
-#### ~ Portfolio (coming soon) ~
-[<img src= "https://cdn.iconscout.com/icon/premium/png-256-thumb/portfolio-folder-8905930-7288920.png" width="50"/>]()
+#### ~ Portfolio - under construction ~
+[<img src= "https://cdn.iconscout.com/icon/premium/png-256-thumb/portfolio-folder-8905930-7288920.png" width="50"/>](https://sarabsundby.com/)
 
 ---
