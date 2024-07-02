@@ -8,7 +8,7 @@
 ##### First semester:
 - DB1102 - Databaser
 - TK1104 - Digital Teknologi
-- PGR103 - Kreativt Webprosjekt
+- PRO105 - Kreativt Webprosjekt
 - PGR102 - Intro til Programmering
 
 ##### Second semester:
