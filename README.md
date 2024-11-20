@@ -1,33 +1,9 @@
-# 🌻 Welcome 🌻 ![Profile View Counter](https://komarev.com/ghpvc/?username=sarabsundby)
-<br>
-
-[<img src="https://upload.wikimedia.org/wikipedia/commons/1/19/LinkedIn_logo.svg" width="70"/>](https://www.linkedin.com/in/sarabsundby/)
-
----
-### ~ Subjects in Frontend and mobile development ~
-##### First semester:
-- DB1102 - Databaser
-- TK1104 - Digital Teknologi
-- PRO105 - Kreativt Webprosjekt
-- PGR102 - Intro til Programmering
-
-##### Second semester:
-- PGR110 - Visual Analytics
-- TK2100 - Informasjonssikkerhet
-- PGR112 - Objektorientert Programmering
----
-
-#### ~ Languages and skills ~
-<div>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="32"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="32"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="32"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="32"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="32"/>
+<div align="center">
+  <img src="https://github.com/user-attachments/assets/dd7c7a05-d257-4f29-a933-799b3f296ec4" width="80px">
 </div>
-<br>
+<h3 align="center">Frontend-student @ Høyskolen Kristiania</h3>
 
-#### ~ Portfolio - under construction ~
-[<img src= "https://cdn.iconscout.com/icon/premium/png-256-thumb/portfolio-folder-8905930-7288920.png" width="50"/>](https://sarabsundby.com/)
-
----
+<div align="center">
+  
+[<img src="https://upload.wikimedia.org/wikipedia/commons/1/19/LinkedIn_logo.svg" width="70"/>](https://www.linkedin.com/in/sarabsundby/)
+</div>
